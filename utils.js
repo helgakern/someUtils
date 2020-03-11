@@ -14,4 +14,8 @@ const subtract = function (e, f){
     return e - f;
 }
 
+const add = function (e, f){
+    return e + f;
+}
+
 
