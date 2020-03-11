@@ -10,5 +10,8 @@ const power = function (c, d){
     return Math.pow(c, d);
 };
 
+const subtract = function (e, f){
+    return e - f;
+}
 
 
